@@ -57,6 +57,14 @@ a:focus {
     color: #3161CE;
 }
 
+input, select, textarea{
+    color: #ff0000;
+}
+
+textarea:focus, input:focus {
+    color: #ff0000;
+}
+
 .light {
     font-weight: 400;
 }
